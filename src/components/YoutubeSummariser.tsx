@@ -1,3 +1,5 @@
+// @typescript-eslint/no-explicit-any
+/* eslint no-use-before-define: 0 */ // --> OFF
 'use client'
 import React, { useState } from 'react'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'

@@ -1,3 +1,4 @@
+// @typescript-eslint/no-explicit-any
 // app/api/transcript/route.ts
 import { NextResponse } from "next/server";
 import { YoutubeTranscript } from 'youtube-transcript';
